@@ -6,3 +6,4 @@ ingrese (-a) para sumar dos matrices
 ingrese (-r) para restar las dos matrices
 ingrese (-w) para guardar el resultado de la operación en un archivo CSV
 lo que hace  es resibir las dos matrices como argumentos  las matrices son el segundo y tercer argumento que se ingresa  seguido de la operación y si se guarda o no la matriz .
+luego realiza la opción seleccionada y muestra  el resultado y la guarda si  así el usuario lo quizo .
